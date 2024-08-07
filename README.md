@@ -2,7 +2,7 @@
 
 Analyse der Daten von der 1. Kohorte aus der Tree-Studie der Universtät Bern
 
-[Artikel auf Tages-Anzeiger](https://www.tagesanzeiger.ch/schweizer-schulsystem-diskriminiert-kinder-aus-bildungsfernen-haushalten-297911787840?preview_key=4bcdb6c9b64482ad71e1f0ff79289f5a)
+[Artikel auf Tages-Anzeiger](https://www.tagesanzeiger.ch/schweizer-schulsystem-diskriminiert-kinder-aus-bildungsfernen-haushalten-297911787840)
 
 ### Kategorisierung der Ausbildungsabschlüsse
 
